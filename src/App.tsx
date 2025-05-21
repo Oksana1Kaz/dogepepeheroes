@@ -265,7 +265,7 @@ function App() {
                   className="absolute top-0 left-0 w-full h-full"
                   width="560"
                   height="315"
-                  src="https://www.youtube.com/embed/_HSFdg_4QAc?si=KADpHIPaXFcXXnKO"
+                  src="https://youtu.be/VnjdikpgR0E?si=Egkjk7FJYjnINVkA"
                   title="DogePepe Heroes: The Beginning"
                   frameBorder="0"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

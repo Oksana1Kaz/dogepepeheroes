@@ -185,7 +185,7 @@ function App() {
             Join the epic adventure of Doge and Pepe as they protect the crypto realm from evil forces!
           </motion.p>
           
-          <ContractAddress address="SOON" />
+          <ContractAddress address="8neoYcmddLUYncUsoxizzV5XyKHG2KrwVpPq3eUpump" />
         </div>
       </div>
 
